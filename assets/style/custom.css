@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(148, 145, 145);
+
+    text-align:center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 50px;
+    border: 5px solid rgb(103, 36, 36);
+    border-radius: 10px;
+}
+
+#products #total {
+    margin-bottom: 20px;
+}
+
+input,
+button {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#totalAmount {
+    font-size: 20px;
+}
